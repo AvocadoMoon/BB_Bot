@@ -1,0 +1,3 @@
+E:\Downloads\Programing\Bots\BestBuyBot\obj\Debug\BestBuyBot.njsprojAssemblyReference.cache
+E:\Downloads\Programing\Bots\BestBuyBot\obj\Debug\BestBuyBot.njsproj.CoreCompileInputs.cache
+E:\Downloads\Programing\Bots\BestBuyBot\bin\Microsoft.NodejsTools.WebRole.dll

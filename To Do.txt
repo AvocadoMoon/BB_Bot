@@ -1,0 +1,27 @@
+
+DONE
+ * Make functions object oriented -- Done
+ * Dicsern between sold out and add to cart button -- Done
+ * Click add to cart button -- Done
+ * Click Go to cart -- Done
+ * Find way to block code so that it waits for go to cart click -- Done
+ * Type email and password before immedaitely after I load websites, click sign in -- Done
+
+
+ TO DO
+ * Make a safe way to put email and pass in code
+
+ * Make a nice GUI
+
+ * self deleting code
+
+
+ LINKS
+ click : https://pptr.dev/#?product=Puppeteer&version=v9.1.0&show=api-pageclickselector-options
+
+ selector: https://pptr.dev/#?product=Puppeteer&version=v9.1.0&show=api-pageselector    https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
+
+ reload: https://pptr.dev/#?product=Puppeteer&version=v9.1.0&show=api-pagereloadoptions
+
+ type: https://pptr.dev/#?product=Puppeteer&version=v9.1.0&show=api-pagetypeselector-text-options
+
